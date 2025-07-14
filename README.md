@@ -1,4 +1,4 @@
-# 🧮 Perfect Calculator
+# 🧮 Perfect Calculator on S3
 
 A robust, intuitive, and modern calculator web application built with HTML, CSS, and JavaScript. The **Perfect Calculator** supports basic and advanced mathematical operations with real-time evaluation, user-friendly interactions, and responsive error handling.
 
