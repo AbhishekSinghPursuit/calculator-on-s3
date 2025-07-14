@@ -4,6 +4,10 @@ A robust, intuitive, and modern calculator web application built with HTML, CSS,
 
 ---
 
+## Deployed Project Link: [Calculator on S3 Bucket](http://calculator-actions.s3-website-us-east-1.amazonaws.com/)
+
+---
+
 ## 🚀 Features
 
 - ✅ **Basic Arithmetic**: Addition, Subtraction, Multiplication, Division  
